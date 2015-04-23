@@ -1,4 +1,6 @@
 swify
+<<<<<<< HEAD
 time 2015
 
 gink
+time 2015 nod
